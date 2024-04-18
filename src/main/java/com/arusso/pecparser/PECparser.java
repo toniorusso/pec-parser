@@ -37,6 +37,11 @@ public class PECparser
         String mittente = mittenti.get(0);
         String contenuto = "Sender: " + mittente + "\n" + "Subject: " + oggetto + "\n" + "Body: " + corpo.strip();
         
+        /**if (mittente.length() <= 0 || oggetto.length() <= 0 || corpo.strip().length() <= 0 ) {
+        	
+        
+        }**/
+        
         Path outputPath = Files.write(Paths.get(txtOutputPath), contenuto.getBytes());
         
         String outputPathToString = outputPath.toString();
