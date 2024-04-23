@@ -1,0 +1,44 @@
+Received: from smtps.pec.aruba.it (localhost [127.0.0.1])
+	by smtps.pec.aruba.it (Postfix) with ESMTP id 4VNQCC4jwzzdRQg
+	for <testflorence@pec.net>; Mon, 22 Apr 2024 14:52:55 +0200 (CEST)
+Received: from pec.it (webmailrm01.pec.ad.aruba.it [95.110.216.18])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by smtp.pec.it (Postfix) with ESMTPSA id 4VNQCC4PtxzdRQX
+	for <testflorence@pec.net>; Mon, 22 Apr 2024 14:52:55 +0200 (CEST)
+Date: Mon, 22 Apr 2024 14:52:55 +0200
+Subject: Estrazione per test junit senza allegati
+MIME-Version: 1.0
+X-Sensitivity: 3
+Content-Type: multipart/alternative;
+	boundary="_=__=_XaM3_.1713790375.2A.572904.42.101742.52.42.007.986045431"
+Reply-To: antoniorusso95@pec.it
+From: "antoniorusso95" <antoniorusso95@pec.it>
+To: "testflorence" <testflorence@pec.net>
+X-XaM3-API-Version: 4.2.99.2
+X-TipoRicevuta: completa
+X-type: 0
+X-SenderIP: 92.223.140.4
+X-MLTR-UUID: {1f05834b-77e3-431d-bc45-e31950a61171}
+Message-ID: <opec21023.20240422145255.211512.995.1.59@pec.aruba.it>
+X-Riferimento-Message-ID: <SCCH47$C8C927B4F01C4AFFA7758809B2A70299@pec.it>
+
+
+--_=__=_XaM3_.1713790375.2A.572904.42.101742.52.42.007.986045431
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CiAgIEJvZHkgZGEgZXN0cmFycmUgcGVyIHZhbGlkYXJlIHRlc3QgY29uIGp1bml0Cgo=
+
+
+--_=__=_XaM3_.1713790375.2A.572904.42.101742.52.42.007.986045431
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDsgZm9udC1zaXplOiBtZWRpdW07IiB4
+YW0tZWRpdG9yLWNvbnRhaW5lcj0idHJ1ZSI+Qm9keSBkYSBlc3RyYXJyZSBwZXIgdmFsaWRh
+cmUgdGVzdCBjb24ganVuaXQ8L3NwYW4+
+
+
+--_=__=_XaM3_.1713790375.2A.572904.42.101742.52.42.007.986045431--
+
